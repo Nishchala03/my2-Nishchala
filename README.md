@@ -12,3 +12,4 @@ The surrounding of the place is beautiful and peaceful. They have many water spo
     * shrimp
 * Dish2
     * lobster    
+[MyStats](MyStats.md)
