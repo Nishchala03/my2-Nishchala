@@ -7,9 +7,9 @@ The surrounding of the place is beautiful and peaceful. They have many water spo
  activities that i'd like to do are jet ski, paragliding and snorkeling.
  ***
 
-* Dish1
+* Dish
     * fish
     * shrimp
-* Dish2
+* Dish
     * lobster    
 [MyStats](MyStats.md)
