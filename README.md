@@ -13,3 +13,16 @@ The surrounding of the place is beautiful and peaceful. They have many water spo
 * Dish
     * lobster    
 [MyStats](MyStats.md)
+
+---
+# TABLE
+i'd like to introduce 4 sports which i feel are my fav.
+This table will talk aboutsports which inludes 3 colunms.
+|sport_name|reason|time|
+|:---|:---:|---:|
+|basketball|good for calfs|2hrs|
+|Tabletennis|control|2hrs|
+|badminton|great_exercise|2hrs|
+|Throwball|arm_exercise|2hrs|
+---
+
