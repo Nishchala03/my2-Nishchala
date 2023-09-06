@@ -26,3 +26,10 @@ This table will talk aboutsports which inludes 3 colunms.
 |Throwball|arm_exercise|2hrs|
 ---
 
+---
+> Two things are infinite: the universe and human stupidity; and I'm not sure about the universe. - _Albert Einstein_
+>
+>There is no law except the law that there is no law. - _John Archibald Wheeler_
+---
+
+
