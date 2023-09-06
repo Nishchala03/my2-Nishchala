@@ -36,8 +36,9 @@ This table will talk aboutsports which inludes 3 colunms.
 ---
 # code
 ```
-> <! DOCTYPE html>
-> <html>
+
+ <! DOCTYPE html>
+ <html>
 >          <head>
 >                      <meta charset="UTF-8">>>                   <meta name="viewport" content="width=device-width, initial-scale = 1.0">
 >                    <title>HTML Interview Questions</title>
@@ -61,8 +62,6 @@ This table will talk aboutsports which inludes 3 colunms.
 >    </body>
 > </html>
 ```
-https://en.wikipedia.org/wiki/Stack_Overflow</br>
-<a href="mailto:someone@yoursite.com">Email Us</a>  
 https://css-tricks.com/snippets/html/mailto-links/#aa-basic
 
 
