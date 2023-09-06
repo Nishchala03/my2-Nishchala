@@ -36,31 +36,18 @@ This table will talk aboutsports which inludes 3 colunms.
 ---
 # code
 ```
+ > Are <div> and <span> tags similar?
 
- <! DOCTYPE html>
- <html>
->          <head>
->                      <meta charset="UTF-8">>>                   <meta name="viewport" content="width=device-width, initial-scale = 1.0">
->                    <title>HTML Interview Questions</title>
->                    <style type="text/css">
->                               <!-- CSS Code will be written into these -->
->                                h2{
->                                         color: #1855b5;
->                               }
->                              p{
->                                       color: #3bd256;
->                                        font-weight: 600;
->                              }
->                </style>
->                 <script type="text/javascript">
->                              <!-- Javascript code will be written into these -->
->                 </script>
->    </head>
->    <body>
->              <h2>Top HTML Interview Questions</h2>
->              <p>HTML stands for Hypertext Markup Language</p>
->    </body>
-> </html>
+<https://www.geeksforgeeks.org/html-interview-questions-answers-set-2/>
+
+```
+<div>
+    A Computer Science Portal for Geeks
+    <span>
+        GeeksforGeeks
+    <span>
+</div>
+
 ```
 https://css-tricks.com/snippets/html/mailto-links/#aa-basic
 
